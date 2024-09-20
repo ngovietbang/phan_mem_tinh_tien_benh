@@ -1,0 +1,10 @@
+D:\Mon hoc\KIEM THU PHAN MEM\KiemThuPhanMemProject\Phan_mem_tinh_toan_tien_benh\bin\Debug\Phan_mem_tinh_toan_tien_benh.exe.config
+D:\Mon hoc\KIEM THU PHAN MEM\KiemThuPhanMemProject\Phan_mem_tinh_toan_tien_benh\bin\Debug\Phan_mem_tinh_toan_tien_benh.exe
+D:\Mon hoc\KIEM THU PHAN MEM\KiemThuPhanMemProject\Phan_mem_tinh_toan_tien_benh\bin\Debug\Phan_mem_tinh_toan_tien_benh.pdb
+D:\Mon hoc\KIEM THU PHAN MEM\KiemThuPhanMemProject\Phan_mem_tinh_toan_tien_benh\obj\Debug\Phan_mem_tinh_toan_tien_benh.csproj.AssemblyReference.cache
+D:\Mon hoc\KIEM THU PHAN MEM\KiemThuPhanMemProject\Phan_mem_tinh_toan_tien_benh\obj\Debug\Phan_mem_tinh_toan_tien_benh.Form1.resources
+D:\Mon hoc\KIEM THU PHAN MEM\KiemThuPhanMemProject\Phan_mem_tinh_toan_tien_benh\obj\Debug\Phan_mem_tinh_toan_tien_benh.Properties.Resources.resources
+D:\Mon hoc\KIEM THU PHAN MEM\KiemThuPhanMemProject\Phan_mem_tinh_toan_tien_benh\obj\Debug\Phan_mem_tinh_toan_tien_benh.csproj.GenerateResource.cache
+D:\Mon hoc\KIEM THU PHAN MEM\KiemThuPhanMemProject\Phan_mem_tinh_toan_tien_benh\obj\Debug\Phan_mem_tinh_toan_tien_benh.csproj.CoreCompileInputs.cache
+D:\Mon hoc\KIEM THU PHAN MEM\KiemThuPhanMemProject\Phan_mem_tinh_toan_tien_benh\obj\Debug\Phan_mem_tinh_toan_tien_benh.exe
+D:\Mon hoc\KIEM THU PHAN MEM\KiemThuPhanMemProject\Phan_mem_tinh_toan_tien_benh\obj\Debug\Phan_mem_tinh_toan_tien_benh.pdb
